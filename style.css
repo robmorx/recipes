@@ -1,0 +1,36 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  div {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 0px;
+    text-align: center;
+    color: orange;
+    font-size: 1.2em;
+
+  }
+  
+  /* Estilos para cada clase */
+  .header {
+    background-color: #3498db; /* Azul */
+  }
+  
+  .two {
+    background-color: #e74c3c; /* Rojo */
+  }
+  .intwo{
+    border-radius: 8px;
+    background-color: black;
+  }
+  .three {
+    background-color: #2ecc71; /* Verde */
+  }
+  .foot {
+    background-color: #2efff1; /* Verde */
+  }
